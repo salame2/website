@@ -1,0 +1,364 @@
+
+h1{color:blue;}
+	p{font-size:20px;}
+	p{border-style:;}
+	h1{font-style: italic;}
+	h2{font-style: oblique;}
+	h2{font-weight: bold;}
+	a{text-decoration: none;}
+	img{height:200px; width: 500px;}
+	
+	.sph img{
+		width: 80px;
+		height:80px;
+	}
+	.sph{ background-color:blue;
+	width:49%;
+	float:left;
+	padding:10px;
+	}
+	.learn{background-color : pink;
+	width:47%;
+	float:right;
+	padding: 10px;
+	
+	}
+	.sph h1{color:white;
+	
+	}
+	
+	.learn h2{color:white;
+	
+	}
+	
+
+.bks img{
+		width: 400px;
+		height:200px;
+	}
+
+
+
+.pn img{
+		width: 400px;
+		height:210px;
+	}
+
+
+.shs img{
+		width: 400px;
+		height:165px;
+	}
+	.shs{ background-color:blue;
+	width:30%;
+	float:right;
+	padding:10px;
+	}
+	.bks{background-color : pink;
+	width:32%;
+	float:right;
+	padding: 10px;
+	
+	}
+
+	.pn{ background-color:purple;
+	width:32%;
+	float:left;
+	padding:10px;
+	}
+
+
+	.shs h1{color:white;
+	
+	}
+	
+	.bks h2{color:white;
+	
+	}
+
+	.pn h3{color:white;
+	}
+
+
+
+
+	.khamis h5{
+		background-colour:green;
+		margin-top:-1px;
+		text-align:center;
+		color:#000;
+		padding:5px;
+	}
+	.khamis h4{
+		background-colour:green;
+		margin-top:-1px;
+		text-align:center;
+		color:#000;
+		
+	}
+	.khamis img{
+	height:100%;
+	width:100%;
+    margin-top:-7.6px;
+		
+	}
+.test img{
+	width:100%;
+	height:600px;
+}
+.salame img{
+	height:100px;
+width:100px;
+}
+.salame h5{
+	text-align:center;
+}
+
+
+
+.salame{
+	background-color:lightblue;
+}
+
+.salma h5{
+	text-align:center;
+}
+.salma {
+	background-color:pink;
+}
+.salma img{
+	height:100px;
+	width:100px;
+}
+.sal img{
+	height:100px;
+	width:100px;
+}
+.sal h5{
+	text-align:center;
+}
+.sal {
+	background-color:purple;
+}
+}
+.foot{
+	background-color: blue
+}
+.foot {
+	text-align:center;
+}
+.foot{
+	width:100%;
+	height:50%;
+}
+.cont{
+		width:100%;
+		background-color: grey;
+}
+.about{
+	background-color:black;
+}
+.about h1{
+	margin-top:-1px;
+		color:white;
+		font-size:60px;
+}
+.about img{
+	width:100%;
+	height:100%;
+
+}
+
+.about p{
+		font-size:20px;
+		color:white;
+	}
+	.pretty{
+		color:orange;
+	}
+.pretty:hover{
+	color:green;
+
+}
+	.movies{
+		color:orange;
+	}
+	.about{
+		padding:25px;
+	}
+		.Nairobi{
+		color:orange;
+	}
+
+.Nairobi:hover{
+	color:purple;
+
+}
+	.Mombasa{
+		color:orange;
+	}
+
+.Mombasa:hover{
+	color:purple;
+
+}
+	.mombasa{
+		color:orange;
+	}
+
+.mombasa:hover{
+	color:purple;
+
+}
+.foot img{
+	width:60px;
+	height:60px;
+}
+.foot h6{
+	font-size:25px;
+	text-align:center;
+}
+
+
+.movies:hover{
+	color:purple;
+
+}
+	.swimming{
+		color:orange;
+	}
+
+.swimming:hover{
+	color:purple;
+
+}
+	.henna{
+		color:orange;
+	}
+
+.henna:hover{
+	color:purple;
+
+}
+	.piko{
+		color:orange;
+	}
+
+.piko:hover{
+	color:purple;
+
+}
+	.parents{
+		color:orange;
+	}
+
+.parents:hover{
+	color:purple;
+
+}
+	.code{
+		color:orange;
+	}
+
+.code:hover{
+	color:purple;
+
+}
+
+.footer img{
+	width:100px;
+height:100px}
+.footest img{
+	width:100px;
+height:100px}
+.footer{
+	text-align:center;
+}
+.footest{
+	text-align:center;
+}
+.project img{ 
+	width: 425px;
+	height:300px;
+	padding-left:10px;
+ }
+
+
+ li{
+ 	display:inline-block;
+ 	padding:20px;
+ }
+ .pro img{ 
+	width: 430px;
+	height:300px;
+	padding-left:20px;
+	padding-top: 25px;
+	padding-right: 8px;
+	
+ }
+ .try h1{
+ 	background-color:black;
+ 	text-align:center;
+ 	font-size:40px;
+color:white;
+
+ }
+ .con img{
+ 	height:75px;
+ 	width:80px;
+ 	padding:5px;
+ 	padding-bottom: 5px;
+ 	padding-top: 5px;
+ 	
+ }
+ .con td{
+ 	height:110px;
+ 	padding-top:-1px;
+ 	padding-bottom: 90px;
+ 	padding:10px;
+ 	border-style:solid ;
+ 	
+ }
+ .try{
+ 	background-color: black;
+ 	text-align:center;
+ 	color:white;
+ 	padding:25px;
+ }
+ 
+
+
+ .saadi img{
+ 	width:320px;
+ 	height:300px;
+ }
+ .khamis h4{
+ 	background-color:lightblue;
+ }
+ .khamis h5{
+ 	background-color: lightblue;
+
+ }
+ .khamis{
+ 	background-color: grey;
+ }
+ .pic img{
+	width:100%;
+	height:600px;
+}
+.nava{
+	background-color:white;
+}
+.navbar-brand{
+	font-size: 50px;
+	font-family:Aclonica;
+}
+.saadi{
+	border: 2px solid orange;
+	border-radius: 5px
+}
+
+ 
+
+
+
